@@ -5,3 +5,5 @@ prisma/migrations
 nodemon.json
 package-lock.json
 tsconfig.json
+jest.config.js
+dist
